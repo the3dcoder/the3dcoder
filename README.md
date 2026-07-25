@@ -1,4 +1,3 @@
-`````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=512BD4&center=true&vCenter=true&width=780&lines=Staff+Full-Stack+Engineer;Data+Scientist+%7C+Software+Architect;.NET+%E2%80%A2+React+%E2%80%A2+Azure+%E2%80%A2+Cross-Platform" alt="Staff Full-Stack Engineer · Data Scientist · Software Architect" />
@@ -205,4 +204,3 @@ Open to contract work, architecture consulting, and open-source collaboration.
 <sub>Save as <code>the3dcoder/the3dcoder/README.md</code> — repo name must match the username, and it must be public.</sub>
 
 </div>
-`````
