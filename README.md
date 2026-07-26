@@ -23,9 +23,9 @@
 
 ### 🧭 About
 
-I ship software to app stores, objects off a 3D printer, and every so often a Linux driver because the vendor wouldn't write one. Five apps are live on iOS and Android — geocaching, fitness, and print-shop tooling — each one built solo, from data model through store listing.
+I ship software to app stores, objects off a 3D printer, and every so often a Linux driver because the vendor wouldn't write one. You can find my work live on iOS,  Android, and Windows/MacOS App Stores — business service, geocaching, fitness, 3d print-shop tooling, and even games — every single one built solo, from data model through store listing.
 
-Most of it runs on .NET and MAUI, with React where the web needs it. When the tool I want doesn't exist, that becomes the next project: KeydialCommander started because a Huion keypad shipped with no Linux support.
+Many tech stacks, I prefer .NET and MAUI, with React where the web needs it. When the tool I want doesn't exist, that becomes the next project: KeydialCommander started because a Huion keypad shipped with no Linux support. Side projects is the one addiction that I don't know if I'll ever kick. Squirrel! 
 
 </td>
 <td width="45%" valign="top">
