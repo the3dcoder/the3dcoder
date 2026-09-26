@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=512BD4&center=true&vCenter=true&width=800&lines=Staff+Full-Stack+Engineer+%26+Software+Architect;Apps+that+ship.+Objects+that+print.+Drivers+that+didn't+exist.;.NET+%E2%80%A2+MAUI+%E2%80%A2+React+%E2%80%A2+Azure" alt="Staff Full-Stack Engineer and Software Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=512BD4&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Apps+that+ship.+Objects+that+print.+Drivers+that+didn't+exist.;.NET+%E2%80%A2+MAUI+%E2%80%A2+React+%E2%80%A2+Azure" alt="Senior Software Engineer" />
 
 # Earl Hayes
 
@@ -23,7 +23,7 @@
 
 ### 🧭 About
 
-I ship software to app stores, objects off a 3D printer, and every so often a Linux driver because the vendor wouldn't write one. You can find my work live on iOS,  Android, and Windows/MacOS App Stores — business service, geocaching, fitness, 3d print-shop tooling, and even games — every single one built solo, from data model through store listing.
+I ship software to app stores, objects off a 3D printer, and every so often a Linux driver because the vendor wouldn't write one. You can find my work live on iOS and Android — business service, geocaching, fitness, 3d print-shop tooling, and even games — every single one built solo, from data model through store listing.
 
 Many tech stacks, I prefer .NET and MAUI, with React where the web needs it. When the tool I want doesn't exist, that becomes the next project: KeydialCommander started because a Huion keypad shipped with no Linux support. Side projects is the one addiction that I don't know if I'll ever kick. Squirrel! 
 
@@ -34,10 +34,9 @@ Many tech stacks, I prefer .NET and MAUI, with React where the web needs it. Whe
 
 | | |
 |:--|:--|
-| 🧑‍💻 **Role** | Staff Full-Stack Engineer |
-| 🏛️ **Also** | Software Architect |
+| 🧑‍💻 **Role** | Senior Software Engineer |
 | 📍 **Based in** | Michigan, USA · ET |
-| 🚢 **Shipped** | 20+ store titles · 30+ web apps |
+| 🚢 **Shipped** | 5 live apps · 9 store listings |
 | 🔭 **Now** | Cache Creature card engine · print-shop tooling |
 | 🧰 **Sidelines** | 3D models · prints · AI/LLM tooling |
 | 📬 **Contact** | earl@bigbwain.com |
@@ -57,7 +56,7 @@ Many tech stacks, I prefer .NET and MAUI, with React where the web needs it. Whe
 | **3DCDesign** | Print-shop organiser — printer profiles, jobs, materials, estimates, reports. Local, not cloud | iOS · Android | [Play](https://play.google.com/store/apps/details?id=com.bigbwain.BigBwain3D) · [App Store](https://apps.apple.com/us/app/3dcdesign/id6621198431) · [Site](https://3dcdesign.com) |
 | **Adventure Cache** | Geocaching companion — hide caches, log finds, earn badges | iOS · Android | [Play](https://play.google.com/store/apps/details?id=com.bigbwain.adventurecache) · [App Store](https://apps.apple.com/us/app/adventure-cache/id1663434228) · [Site](https://adventurecacheapp.com) |
 
-<sub>Also on Google Play: **Rubetris**, a four-wall arcade puzzle. Plus Microsoft Store titles and 30+ web apps — <a href="https://the3dcoder.com">full catalog here</a>.</sub>
+<sub>Also on Google Play: **Rubetris**, a four-wall arcade puzzle — <a href="https://the3dcoder.com">full catalog here</a>.</sub>
 
 <!-- SCREENSHOTS: commit 3-4 app screenshots to /assets in this repo, then uncomment:
 <div align="center">
@@ -83,16 +82,12 @@ Many tech stacks, I prefer .NET and MAUI, with React where the web needs it. Whe
 <a href="https://github.com/the3dcoder/MAUI3DColorMixing">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=the3dcoder&repo=MAUI3DColorMixing&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=512BD4&icon_color=512BD4" alt="MAUI3DColorMixing" />
 </a>
-<a href="https://github.com/the3dcoder/Cacheboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=the3dcoder&repo=Cacheboard&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=512BD4&icon_color=512BD4" alt="Cacheboard" />
-</a>
 
 </div>
 
 - **KeydialCommander** — Linux driver and Stream-Deck-style GUI for the Huion Keydial Mini (K20). evdev-grab remapping across all 18 keys and the dial, profiles, macros, app launch, embedded REST/WebSocket API, React front end.
 - **rubybiscuits** — Xteink X4 e-paper firmware, written in C.
 - **MAUI3DColorMixing** — .NET MAUI 3D painter and exporter.
-- **Cacheboard** — One dashboard for metrics across accounts, LLMs, and services, because reading five of them wasn't working.
 
 ---
 
