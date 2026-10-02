@@ -10,8 +10,11 @@ rectangular construction. The desk silhouette and shared grid evoke nostalgic
 block puzzles and fantasy crafting games. There are no copied game assets,
 logos, rendered textures, or generated-image assets in them.
 
-Four banner layouts provide light/dark colorways and separate mobile compositions
-with larger relative lettering. The headline uses outlined Spectral SemiBold,
+Two responsive banners provide light/dark colorways with a shared 1280 by 300
+canvas. Each SVG changes its internal layout below 600 pixels, keeping the same
+compact proportions in every theme. The README selects only by theme so GitHub
+cannot stretch a taller mobile asset across a desktop profile.
+The headline uses outlined Spectral SemiBold,
 licensed under the SIL Open Font License 1.1 (`Spectral-OFL.txt`). Secondary text
 uses outlined Trebuchet MS; no font file is embedded or redistributed. Project
 frame headings still use outlined Chakra Petch Bold (`ChakraPetch-OFL.txt`).
