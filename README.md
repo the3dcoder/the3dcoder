@@ -7,15 +7,15 @@
 
 **Senior Software Engineer at WorkWave. Founder of Big Bwain LLC.**
 
-My beautiful wife, my daughter, and my family are the reason behind the work. Taking care of them is what drives me to keep learning, building, and delivering.
+My beautiful wife, daughter, and my family are the reason behind my endless drive (with a bit of ADHD). Taking care of them is what drives me to keep learning, building, and delivering.
 
-I build across mobile, web, desktop, cloud, and hardware. My career grew from technical support and QA into software engineering, architecture, and mentoring. I like understanding the whole problem, making the pieces work together, and seeing a product through release and the improvements that follow.
+I build across mobile, web, desktop, cloud, and hardware. My career spans from technical support, QA/Automation, into software engineering, architecture, and mentoring. I honestly just like creating and occasionally dive into additive engineering, CAD, and designing models to solve everyday problems.
 
-I use my ADHD to my advantage: curiosity, unexpected connections, and a steady supply of ideas. My side projects have side projects.
+I use my ADHD to my advantage to the point that my side projects have side projects.
 
-- [**earlhayes.com**](https://earlhayes.com) — Career Bio Site
-- [**the3dcoder.com**](https://the3dcoder.com) — Project Bio Site
-- [**bigbwain.com**](https://bigbwain.com) — Full-Lifecycle Engineering LLC
+- [**earlhayes.com**](https://earlhayes.com)
+- [**the3dcoder.com**](https://the3dcoder.com) 
+- [**bigbwain.com**](https://bigbwain.com) 
 
 ## Engineering the whole lifecycle
 
