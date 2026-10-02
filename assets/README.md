@@ -1,9 +1,11 @@
 # Profile artwork and product media
 
 The studio banners are original SVG artwork constructed from paths and rectangles.
-They combine simple typography with a castle emblem built from three exact
-four-square puzzle pieces: L, J, and I. The stone piers, two windows, and shared
-grid evoke nostalgic block puzzles and fantasy crafting games. There are no
+They combine simple typography with a castle emblem built from all seven exact
+four-square puzzle pieces: L, J, I, T, S, O, and Z. Green, gold, and blue pieces
+form the upper bridge; purple, red, orange, and cyan pieces fill the lower tower.
+The stone piers, two windows, and shared grid evoke nostalgic block puzzles and
+fantasy crafting games. There are no
 copied game assets, logos, rendered textures, or generated-image assets in them.
 
 Four banner layouts provide light/dark colorways and separate mobile compositions

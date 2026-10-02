@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/studio-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/studio-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-dark.svg">
-  <img src="./assets/studio-light.svg" width="100%" alt="From idea to release. Full lifecycle. Cross-platform. Always creating. A small castle built from four-square puzzle pieces evokes Tetris and old fantasy crafting games.">
+  <img src="./assets/studio-light.svg" width="100%" alt="the3dcoder. Full Life-cycle ADHD Engineering. Cross-platform. Always creating. A small castle built from seven colored four-square puzzle pieces evokes Tetris and old fantasy crafting games.">
 </picture>
 
 # Earl Hayes
