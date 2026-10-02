@@ -1,9 +1,22 @@
 # Profile artwork and product media
 
-The studio cover and project frames were drawn for this profile in October 2026.
-The two editable SVG covers provide light and dark colorways. Headline lettering
-uses outlined Chakra Petch Bold by Cadson Demak, licensed under the SIL Open Font
-License 1.1; see `ChakraPetch-OFL.txt`. No font download is needed to view the art.
+The studio banners are original SVG artwork constructed from paths and rectangles.
+They combine simple typography with a castle emblem built from three exact
+four-square puzzle pieces: L, J, and I. The stone piers, two windows, and shared
+grid evoke nostalgic block puzzles and fantasy crafting games. There are no
+copied game assets, logos, rendered textures, or generated-image assets in them.
+
+Four banner layouts provide light/dark colorways and separate mobile compositions
+with larger relative lettering. The headline uses outlined Spectral SemiBold,
+licensed under the SIL Open Font License 1.1 (`Spectral-OFL.txt`). Secondary text
+uses outlined Trebuchet MS; no font file is embedded or redistributed. Project
+frame headings still use outlined Chakra Petch Bold (`ChakraPetch-OFL.txt`).
+No font download is needed to view any artwork.
+
+The layout research included the simple typographic header on
+https://github.com/anuraghazra/anuraghazra and the deliberately retro graphics on
+https://github.com/sindresorhus/sindresorhus. These were design references; none of
+their artwork or source assets was copied.
 
 The project panels show actual first-party app screens, composed onto original
 colored frames. They are illustrative product views, not assertions that a

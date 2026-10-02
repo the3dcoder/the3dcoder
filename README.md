@@ -1,6 +1,8 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/studio-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/studio-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-dark.svg">
-  <img src="./assets/studio-light.svg" width="100%" alt="From idea to release. Full lifecycle, cross-platform, always curious. Original dimensional artwork connects 3D printing, software building blocks, and a faceted puzzle gem.">
+  <img src="./assets/studio-light.svg" width="100%" alt="From idea to release. Full lifecycle. Cross-platform. Always creating. A small castle built from four-square puzzle pieces evokes Tetris and old fantasy crafting games.">
 </picture>
 
 # Earl Hayes
