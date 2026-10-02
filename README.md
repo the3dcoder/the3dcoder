@@ -5,13 +5,11 @@
 
 # Earl Hayes
 
-**Senior Software Engineer at WorkWave. Founder of Big Bwain LLC.**
+**Senior Software Engineer. Founder of Big Bwain LLC.**
 
 My beautiful wife, daughter, and my family are the reason behind my endless drive (with a bit of ADHD). Taking care of them is what drives me to keep learning, building, and delivering.
 
 I build across mobile, web, desktop, cloud, and hardware. My career spans from technical support, QA/Automation, into software engineering, architecture, and mentoring. I honestly just like creating and occasionally dive into additive engineering, CAD, and designing models to solve everyday problems.
-
-I use my ADHD to my advantage to the point that my side projects have side projects.
 
 - [**earlhayes.com**](https://earlhayes.com)
 - [**the3dcoder.com**](https://the3dcoder.com) 
