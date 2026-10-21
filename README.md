@@ -5,9 +5,10 @@
 
 # Earl Hayes
 
-**Software Architect. "The Over-Engineered Ephemeral Solution Architect"**
+**Software Architect. 
+Or as I prefer..."The Over-Engineered Ephemeral Solution Architect"**
 
-Always searching for a new challenge. Building new things and designing is a passion that is never satisfied, so I just keep on going. Contact me if you're interested in collaborating or working together.
+Always searching for a new challenge. Building new things and designing is a passion that is never satisfied, so I just keep on going. 
 
 - [**earlhayes.com**](https://earlhayes.com)
 - [**the3dcoder.com**](https://the3dcoder.com) 
