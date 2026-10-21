@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the3dcoder/the3dcoder/02073506b407658b288d89dc9a275cf890a9e514/assets/studio-dark.svg">
-  <img src="https://raw.githubusercontent.com/the3dcoder/the3dcoder/02073506b407658b288d89dc9a275cf890a9e514/assets/studio-light.svg" width="100%" alt="the3dcoder. ADHD: Another Design Half Done. A block-built 3D printer nozzle rests above the center of a yellow four-square print bed, atop a desk made from seven colored puzzle pieces.">
+  <img src="https://raw.githubusercontent.com/the3dcoder/the3dcoder/02073506b407658b288d89dc9a275cf890a9e514/assets/studio-light.svg" width="100%" alt="the3dcoder. Over-Engineered Ephemeral Solution Architect. A block-built 3D printer nozzle rests above the center of a yellow four-square print bed, atop a desk made from seven colored puzzle pieces.">
 </picture>
 
 # Earl Hayes
