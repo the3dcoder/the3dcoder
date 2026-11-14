@@ -53,13 +53,21 @@ Real products, useful tools, and games with a little personality. These are sele
 - [**Adventure Cache**](https://adventurecacheapp.com): Create outdoor adventures, hide caches, follow clues, log finds, and earn badges. Mobile engineering that gets people away from their desks.
 - [**3DCDesign**](https://the3dcoder.com/work/3dcdesign): Local print-shop tools for printers, materials, jobs, estimates, and reports, built around the practical work of making physical things.
 
+## Recently shipped
+
+- **Nov 12, 2026** · [Guidlands](https://guidlands.com): new named bosses, treasure maps to dig for, and smoother boss fights on phones.
+- **Nov 3, 2026** · [Cache Pal](https://cachepal.com) 4.10.1: a training ring for Pals in the Glade, a homecoming moment on the trail, and accessibility fixes.
+- **Oct 30, 2026** · [Keydial Commander](https://github.com/the3dcoder/KeydialCommander) 1.3.0a3: an Ubuntu package preview with improved onboarding.
+- **Oct 24, 2026** · [3DCDesign](https://the3dcoder.com/work/3dcdesign) 3.5: live on both stores, with one chart style across Business Center and Stats and brand-first printer and filament setup.
+- **Oct 19, 2026** · [Ruby Moon](https://github.com/the3dcoder/rubymoon-releases/releases) 0.2.9: signed firmware for the Moon-themed learning companion on the Xteink X4.
+
 ## More from the workshop
 
-- [**Cache Creature**](https://www.cachecreature.com): Collectible cards inspired by moments, signals, prompts, and scans.
+- [**Cache Creature**](https://www.cachecreature.com): Collectible pixel creature cards generated from scans, places, device traits, and chance, with offline three-card practice battles.
 - [**Cache Pal**](https://cachepal.com): Hatch, raise, battle, and breed living pixel creatures in an offline-capable browser game.
 - [**City Jumper**](https://cityjumper.io): A rooftop platformer. Chase the sunset, find your rhythm, and climb the leaderboard.
 - [**Wordsracer**](https://wordsracer.com): Race through Word Arena or explore a letter tray in Word Garden.
-- [**Keydial Commander**](https://github.com/the3dcoder/KeydialCommander): A Linux driver and visual macro-pad editor for the Huion K20, with profiles, shortcuts, and a local API. MIT source.
+- [**Keydial Commander**](https://github.com/the3dcoder/KeydialCommander): Turn the Huion K20's 18 buttons and dial into a visual control surface for shortcuts, macros, programs, and profiles on Linux. MIT source.
 - **Cacheboard**: A local workbench for planning and coordinating AI-assisted development. Private project in development; included in the [AI project catalog](https://the3dcoder.com/?topic=ai).
 
 Also on my workbench: **Pocket Words**, a quiet offline Android word game with large controls, accessible clues, and no accounts or ads. Currently a development build.
