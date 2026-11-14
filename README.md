@@ -69,6 +69,7 @@ Real products, useful tools, and games with a little personality. These are sele
 - [**Wordsracer**](https://wordsracer.com): Race through Word Arena or explore a letter tray in Word Garden.
 - [**Keydial Commander**](https://github.com/the3dcoder/KeydialCommander): Turn the Huion K20's 18 buttons and dial into a visual control surface for shortcuts, macros, programs, and profiles on Linux. MIT source.
 - **Cacheboard**: A local workbench for planning and coordinating AI-assisted development. Private project in development; included in the [AI project catalog](https://the3dcoder.com/?topic=ai).
+- [**Detector Dynasty**](https://detectordynasty.com): A private metal-detecting journal for iPhone, iPad, and Android that maps hunts, finds, and sites with photos, notes, recorded routes, and detector setups.
 
 Also on my workbench: **Pocket Words**, a quiet offline Android word game with large controls, accessible clues, and no accounts or ads. Currently a development build.
 
